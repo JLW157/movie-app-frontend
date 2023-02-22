@@ -5,7 +5,11 @@ Here screenshots of my web application
 
 User features:
 
-Home page: 
+Customsers Home page:
+![image](https://user-images.githubusercontent.com/90110681/220667643-037c55c5-00a7-4d1c-b57c-2fea06921bce.png)
+
+
+Admins Home page:
 ![image](https://user-images.githubusercontent.com/90110681/220659907-e1c32652-5862-42ca-a845-721a6c3ad541.png)
 
 Movie Details:
