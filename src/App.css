@@ -1,0 +1,9 @@
+.App {
+    height: 100%;
+}
+
+.grid {
+    height: 100%;
+    grid-template-rows: auto 1fr auto;
+    display: grid;
+}

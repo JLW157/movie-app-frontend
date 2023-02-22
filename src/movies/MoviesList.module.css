@@ -1,0 +1,12 @@
+.div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+}
+
+.loading img{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
